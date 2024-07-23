@@ -12,7 +12,7 @@ title                    : "Diram Tabaa"
 title_separator          : "-"
 name                     : &name "Diram Tabaa"
 description              : &description "personal description"
-url                      : https://diram-tabaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dtabaa.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Diram-Tabaa/diram-tabaa.github.io"
 

@@ -37,7 +37,7 @@ During my time as a CS undergrad at CMU, I have taken a wide range of courses. I
   * I really, really shouldn't have put off this course till my last semester.
   * If you can, take any other course that satisfy the professional writing requirement.
 
-## Fall 2023 
+## Fall 2023 (Pittsburgh)
 
 * ★★ 15-410: Operating Systems Design and Implementation
   * The gem of Computer Systems Courses at CMU. Infamous for its notoriety. You implement an entire kernel by the end of the course! 
@@ -63,6 +63,9 @@ During my time as a CS undergrad at CMU, I have taken a wide range of courses. I
   * Some people say that your experience depends on the instructor, and I have heard that [David Anderson](https://www.cmu.edu/physics/people/faculty/anderson.html) makes the course "more fun", so if you absolutely must take the course, maybe go for the section that he teaches.
 
 * 82-101: Elementary French I 
+  * Despite being 12 units, this course ended up being on the lighter end of my workload.
+  * I took the course to satisfy a free gen-ed elective, but I would have been interested to do French II if I had a lighter spring.
+  * Prof. Hoogstaden est une excellent professeur!
 
 ## Spring 2023 
 
