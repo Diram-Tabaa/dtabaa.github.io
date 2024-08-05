@@ -70,12 +70,25 @@ During my time as a CS undergrad at CMU, I have taken a wide range of courses. I
 ## Spring 2023 
 
 * 15-441: Computer Networks 
+  * The course is well structured in terms of content, and the lectures build up on each other in a nice way (going through the all the layers bottom-up) 
+  * On paper, the projects that we were supposed to implement were cool, but it was dissapointing when it came to evaluation, as the autograder was mis-configured.
+  * I wasn't a big fan of the theory homeworks or the quizzes, but they exist for a reason I guess.
 
 * 21-355: Princples of Real Analysis I
+  * The course was a bit of a bore during the first half because we kept talking about sequences for a good while.
+  * Towards the end, it got interesting with the proofs of differentiability and Reimann Integrals. 
+  * If you plan to take this course, I suggest taking Real Analysis II as well, to have the full picture. 
 
 * 15-330: Introduction to Computer Security
+  * Relatively much easier than networks, despite being 12 units as well. 
+  * The course is divided into three segments: systems security, crypto and web security. 
+  * My interest in the material fluctuated based on the topics, as I wasn't a big fan of crypto. 
+  * That being said, all of the homeworks were very fun to work on (bomb lab on steriods, breaking crypto systems, breaking into a website payment system)
 
 * ★ 79-293: Inward Odyssey
+  * Despite being a humanity course, it ended up being my favorite course of the semester. 
+  * I cannot emphasize enough how engaging are Ben Reilly's lectures -- the students are running the show more often than not!
+  * The readings were also very unorthodox for a history course, you get to read about travellers throughout history and their encounters with other nations.
 
 ## Fall 2022 
 
@@ -90,7 +103,9 @@ During my time as a CS undergrad at CMU, I have taken a wide range of courses. I
 ## Spring 2022
 
 * ★★ 15-251: Great Theoretical Ideas in Computer Science
-
+  * GTI is by far one of the most well-structured and well-taught courses at CMU.
+  * The first half of the semester is admittedly a review from other courses, but eventually you get to the bulk of thought-provoking topics in CS.
+  * Many great ideas (pun intended), including but not limited to: Finite Automata, Turing Machines, Reductions and P vs NP.
 * ★ 15-210: Parallel and Sequental Data Structures and Algorithms
 
 * 16-311: Introduction to Robotics
@@ -112,7 +127,10 @@ During my time as a CS undergrad at CMU, I have taken a wide range of courses. I
 ## Spring 2021
 
 * ★ 15-458: Discrete Differential Geometry 
-
+  * I found out about this course by accident, and I was unsure if I wanted to register for it or not, but looking back I am glad I did.
+  * This course was an interesting outlook at graphics from the side of geometry processing, more precisely taking all the descriptions and operations that you do on differential surfaces (smooth surfaces that are locally euclidean), and trying to descretize them for computer simulation.
+  * The course consisted of only doing written homeworks and programming homeworks, and the grading was pretty lenient overall (you can chose to not do an entire homework)
+  * Keenan Crane has one of the best lecture slides and supplemental materials I have ever used for a course.
 * ★ 21-259: Calculus in 3D
 
 * 02-251: Great Ideas in Computational Biology
